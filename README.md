@@ -39,5 +39,5 @@
 >I Recommend to use [Kali Linux] and download [openVPN] so you can have unlimited machine time 
 
 [openVPN]: <https://openvpn.net/>
-[Kali Linux}: <https://www.kali.org/>
+[Kali Linux]: <https://www.kali.org/>
 
