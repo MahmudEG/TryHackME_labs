@@ -1,8 +1,6 @@
 # TryHackME_labs
 > This is my try hack me writeup for the following labs
 
-@everyone 
-Here's a compiled list of all the machines we should attack.
 1) Vulnversity
 2) Basic Pentesting
 3) Blue
@@ -33,6 +31,8 @@ Here's a compiled list of all the machines we should attack.
 28) Nax
 29) Daily Bugle
 30) Relevant
+
+>I Recommend to use `Kali Linux` and download `openVPN` so you can have unlimited machine time 
 
 All of these can be found on TryHackMe (for free). Please give me your guys' feedback on the machines in the discussions channel, and once you guys are happy, I'll start creating the daily threads. I plan to complete all of these before September and start doing CTF challenges. Please don't be afraid to speak up about machines that you think are a waste of time. I'll be sure to lay down some general ground rules about how to attack the machine (so to learn as much as possible). Stay consistent!
 
